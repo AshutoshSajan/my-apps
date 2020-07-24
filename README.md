@@ -1,10 +1,10 @@
 #### Visit profile
 
-📎 [View github profile](https://github.com/ashutosh-sajan/){:target="_blank"}
-
+📎 [View github profile](https://github.com/ashutosh-sajan/)
+___
 #### Some of my live projects
 
-📎 [Node React quiz app](https://node-react-quiz-app.netlify.com/){:target="_blank"}
+📎 [Node React quiz app](https://node-react-quiz-app.netlify.com/)
 
 📎 [React range picker](https://react-range-picker.netlify.com/)
 
