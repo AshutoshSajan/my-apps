@@ -1,7 +1,7 @@
 #### Visit profile
-📎 [Visit profile](https://github.com/sajan1231)
+📎 [View github profile](https://github.com/ashutosh-sajan)
 
-#### View some of my live projects
+#### Some of my live projects
 
 📎 [Node React quiz app](https://node-react-quiz-app.netlify.com)
 
