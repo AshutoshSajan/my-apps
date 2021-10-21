@@ -58,11 +58,13 @@ Shopping cart
 
 [https://react-shoping-car.netlify.com](https://react-shoping-car.netlify.com)
 
-Conduit clone
+<!-- Conduit clone
 
 - Medium like app clone created using the Conduit API
 
-[https://react-conduit-clone.netlify.com](https://react-conduit-clone.netlify.com)
+- No data due to some conduit API updates
+
+[https://react-conduit-clone.netlify.com](https://react-conduit-clone.netlify.com) -->
 
 ## Vanilla Javascript Projects
 
