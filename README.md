@@ -77,10 +77,13 @@ HTML Canvas Paddle game
 Simple Pokemon search app
 [https://pokymon-search.netlify.com](https://pokymon-search.netlify.com)
 
-Github battle (Fetch Github data of two users and compare it)
+Github battle
+
+- Fetch and compare the github data of two users and scores them
+
 [https://github-user-battle.netlify.com](https://github-user-battle.netlify.com/)
 
-## Chrome extension
+Chrome extension
 
 - Random wallpapers
 - Add, view, update, remove todo's
