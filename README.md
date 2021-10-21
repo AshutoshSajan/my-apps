@@ -60,9 +60,10 @@ Shopping cart
 
 <!-- Conduit clone
 
+NOTE: There is no data due to some conduit API updates
+
 - Medium like app clone created using the Conduit API
 
-- No data due to some conduit API updates
 
 [https://react-conduit-clone.netlify.com](https://react-conduit-clone.netlify.com) -->
 
@@ -91,3 +92,16 @@ Chrome extension
 - Add, view, update, remove todo's
 
 [https://github.com/AshutoshSajan/chrome-extension/tree/master](https://github.com/AshutoshSajan/chrome-extension/tree/master)
+
+## Team Projects
+
+CodeWars score tracker
+
+- Track the code wars score of an organization and display it in the score board to track the progress of the students
+
+[https://github.com/AltCampus/codewars-team2](https://github.com/AltCampus/codewars-team2)
+
+<!--
+https://github.com/srijan-kapoor/Github-Issue-Tracker
+https://github.com/AltCampus/indiereis
+https://github.com/vishwanathovi/startupTrackerHTML -->
