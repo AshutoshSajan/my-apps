@@ -11,6 +11,8 @@ Payment Reminder App
 
 [https://github.com/AshutoshSajan/reminderApp](https://github.com/AshutoshSajan/reminderApp)
 
+[Check Here](https://reminderapp-dev-bqqs.4.us-1.fl0.io/)
+
 URL Shortener App
 
 - Trim down the long urls to short forms
@@ -26,7 +28,7 @@ Quiz App
 
 [https://github.com/AshutoshSajan/quiz-app](https://github.com/AshutoshSajan/quiz-app)
 
-[https://quiz-app-node-react.herokuapp.com](https://quiz-app-node-react.herokuapp.com)
+[Check Here](https://node-react-quiz-app.onrender.com)
 
 Book store app
 
